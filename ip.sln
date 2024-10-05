@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ip", "ip.csproj", "{33F22865-5F22-4D5A-974B-FADF236CA54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ipTest", "..\ipTest\ipTest.csproj", "{08A761F3-76B2-4296-8A41-DF23501510AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F22865-5F22-4D5A-974B-FADF236CA54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F22865-5F22-4D5A-974B-FADF236CA54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F22865-5F22-4D5A-974B-FADF236CA54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F22865-5F22-4D5A-974B-FADF236CA54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A761F3-76B2-4296-8A41-DF23501510AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A761F3-76B2-4296-8A41-DF23501510AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A761F3-76B2-4296-8A41-DF23501510AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A761F3-76B2-4296-8A41-DF23501510AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {339855EF-BBE9-4F96-9B4C-C5E6E706676F}
+	EndGlobalSection
+EndGlobal
